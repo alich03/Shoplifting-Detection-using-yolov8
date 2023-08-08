@@ -1,0 +1,5 @@
+ultralytics=8.0.136
+numpy=1.24.3
+imutils=0.5.4
+opencv-python=4.8.0.74
+
